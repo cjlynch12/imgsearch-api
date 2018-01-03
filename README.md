@@ -1,12 +1,11 @@
-# FreeCodeCamp Backend Challenges - Image Search Abstraction Layer
+# FreeCodeCamp Backend Challenges - Image Search Abstraction Layer Microservice API Project
 
 ---
 
 by Carter Lynch
 
+Created with Mongodb, Express.js, Nodejs and Google Custom Search API.
 Made with the FCC backend boilderplate and hosted on Glitch.
-
-Created with the Google Custom Search API.
 
 See a live demo at [glitch](https://cjl12-imgsearch.glitch.me).
 
