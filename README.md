@@ -1,4 +1,4 @@
-# FreeCodeCamp Backend Challenges - Image Search Abstraction Layer Microservice API Project
+# Image Search Abstraction Layer Microservice API Project
 
 ---
 
